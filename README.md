@@ -15,7 +15,7 @@ Hongjia Wu and Junxi Wang
 
 ### Teaching 
 + Room 108, Building 7, Yu-Quan Campus, Zhejiang University
-+ 10:00AM - 11:40AM, Friday
++ 10:00AM - 11:35AM, Friday
 
 ### Experiments 
 + Room 501, Cao Guang Biao Building (West), Yu-Quan Campus, Zhejiang University
