@@ -24,10 +24,10 @@ Hongjia Wu and Junxi Wang
 ## Schedule
 |  No. |   Topic          |     Date     |                  Slides                                   |   Course note      |
 |:----:| ---------------- |:------------:|:---------------------------------------------------------:|:------------------:|
-|  01  |  Introduction    |  2024.09.13  |  [Overview](pdf/00_overview.pdf)                          |   Chapter 1        |
-|      |                  |              |  [What is computer graphics](pdf/01_introduction.pdf)     |                    |
+|  01  |  Introduction    |  2024.09.13  |  [Overview](pdf/00_overview_2024.pdf)                          |   Chapter 1        |
+|      |                  |              |  [What is computer graphics](pdf/01_introduction_2024.pdf)     |                    |
 |      |       --         |    --        |         --                                                |   --               |
-|  02  |  2D Primitive    |  2024.09.20  |  [2D Primitive](pdf/02_primitive.pdf)                     |   Chapter 2        |
+|  02  |  2D Primitive    |  2024.09.20  |  [2D Primitive](pdf/02_primitive_2024.pdf)                     |   Chapter 2        |
 |  03  |  OpenGL          |  2024.09.27  |  [OpenGL introduction](pdf/03_opengl.pdf)                 |   Chapter 3        |
 |      |                  |              |  [Simple Glut-OpenGL Demos](src/ogl)                      |                    |
 |  04  |  Attributes      |  2024.10.xx  |  [OpenGL and Scanline Algorithms](pdf/04_attribute.pdf)   |   Chapter 4        |
@@ -53,7 +53,7 @@ Hongjia Wu and Junxi Wang
 
 ## Homework
 
-+ [2024-09-20] Bresenham algorithm for drawing circle (ellipse) [PDF](pdf/homework01.pdf) (deadline: two weeks later)
++ [2024-09-20] Bresenham algorithm for drawing circle (ellipse) [PDF](pdf/homework01_2024.pdf) (deadline: two weeks later)
 + [2024-10-xx] 3D Rotation: build the solar system with OpenGL with tracing effects, real OpenGL implementation preferred [PDF](pdf/homework02.pdf) (deadline: two weeks later)
 + [2024-10-xx] Seamless stitching 4 virtual (iphone, ipad and/or Android Phone) screen together  [PDF](pdf/homework03.pdf) (deadline: two weeks later)
 + [2024-11-xx] Draw a circle by using Cubic Rational Bezier Curves [PDF](pdf/homework04.pdf) (deadline: two weeks later)
