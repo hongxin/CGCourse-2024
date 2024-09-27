@@ -30,7 +30,7 @@ Hongjia Wu and Junxi Wang
 |  02  |  2D Primitive    |  2024.09.20  |  [2D Primitive](pdf/02_primitive_2024.pdf)                     |   Chapter 2        |
 |  03  |  OpenGL          |  2024.09.27  |  [OpenGL introduction](pdf/03_opengl.pdf)                 |   Chapter 3        |
 |      |                  |              |  [Simple Glut-OpenGL Demos](src/ogl)                      |                    |
-|  04  |  Attributes      |  2024.10.xx  |  [OpenGL and Scanline Algorithms](pdf/04_attribute.pdf)   |   Chapter 4        |
+|  04  |  Attributes      |  2024.09.29  |  [OpenGL and Scanline Algorithms](pdf/04_attribute_2024.pdf)   |   Chapter 4        |
 |      |                  |              |  [A scanline algorithm](https://www.techfak.uni-bielefeld.de/ags/wbski/lehre/digiSA/WS0607/3DVRCG/Vorlesung/13.RT3DCGVR-vertex-2-fragment.pdf)                      |                    |
 |  05  |  Transform (I)   |  2024.10.xx  |  [Triangles and transforms](pdf/05_transform_1.pdf)       |   Chapter 5        |
 |  06  |  Transform (II)  |  2024.10.xx  |  [Transforms and matrices](pdf/06_transform_2.pdf)        |   Chapter 6        |
