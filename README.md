@@ -19,7 +19,7 @@ Hongjia Wu and Junxi Wang
 
 ### Experiments 
 + Room 501, Cao Guang Biao Building (West), Yu-Quan Campus, Zhejiang University
-+ 06:50PM - 08:25PM, Wednesday (every odd week)
++ 06:50PM - 08:25PM, Friday (every even week)
 
 ## Schedule
 |  No. |   Topic          |     Date     |                  Slides                                   |   Course note      |
