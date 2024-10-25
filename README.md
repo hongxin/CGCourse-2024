@@ -33,9 +33,9 @@ Hongjia Wu and Junxi Wang
 |  04  |  Attributes      |  2024.09.29  |  [OpenGL and Scanline Algorithms](pdf/04_attribute_2024.pdf)   |   Chapter 4        |
 |      |                  |              |  [A scanline algorithm](https://www.techfak.uni-bielefeld.de/ags/wbski/lehre/digiSA/WS0607/3DVRCG/Vorlesung/13.RT3DCGVR-vertex-2-fragment.pdf)                      |                    |
 |  05  |  Transform (I)   |  2024.10.11  |  [Triangles and transforms](pdf/05_transform_1_2024.pdf)  |   Chapter 5        |
-|  06  |  Transform (II)  |  2024.10.18  |  [Transforms and matrices](pdf/06_transform_2.pdf)        |   Chapter 6        |
-|      |                  |              |  [Quaternions](pdf/quatut-2-2.pdf)                        |   --               |
-|  07  |View in 2D and 3D |  2024.10.25  |  [View port](pdf/07_view_2d.pdf)                          |   Chapter 7        |
+|  06  |  Transform (II)  |  2024.10.25  |  [Transforms and matrices](pdf/06_transform_2_2024.pdf)        |   Chapter 6        |
+|      |                  |              |  [Quaternions](pdf/Shoemake-Quaternions.pdf)                        |   --               |
+|  07  |View in 2D and 3D |  2024.10.26  |  [View port](pdf/07_view_2d.pdf)                          |   Chapter 7        |
 |      |       --         |    --        |         --                                                |   --               |
 |  08  | HLHSR            |  2024.11.xx  |  [BC, z-buffer and BSP](pdf/08_hidden_surface_elimination.pdf) |   Chapter 8        |
 |      |       --         |    --        |         --                                                |   --               |
@@ -54,8 +54,8 @@ Hongjia Wu and Junxi Wang
 ## Homework
 
 + [2024-09-20] Bresenham algorithm for drawing circle (ellipse) [PDF](pdf/homework01_2024.pdf) (deadline: two weeks later)
-+ [2024-10-18] 3D Rotation: build the solar system with OpenGL with tracing effects, real OpenGL implementation preferred [PDF](pdf/homework02.pdf) (deadline: two weeks later)
-+ [2024-10-xx] Seamless stitching 4 virtual (iphone, ipad and/or Android Phone) screen together  [PDF](pdf/homework03.pdf) (deadline: two weeks later)
++ [2024-10-25] 3D Rotation: build the solar system with OpenGL with tracing effects, real OpenGL implementation preferred [PDF](pdf/homework02.pdf) (deadline: two weeks later)
++ [2024-11-xx] Seamless stitching 4 virtual (iphone, ipad and/or Android Phone) screen together  [PDF](pdf/homework03.pdf) (deadline: two weeks later)
 + [2024-11-xx] Draw a circle by using Cubic Rational Bezier Curves [PDF](pdf/homework04.pdf) (deadline: two weeks later)
 + [2024-12-xx] Model a 3D scene of your dream car, and render it in a rendering engine [PDF](pdf/homework05.pdf) (deadline: two weeks later)
 
